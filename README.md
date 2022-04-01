@@ -10,5 +10,5 @@
 ## Endereço do desafio: https://edabit.com/challenge/2zKetgAJp4WRFXiDT
 
 ### comentários:
-linguagem escoolhida foi python, e tentei adicionar comentários no edabit mas sem sucesso, os comentarios estão no arquivo index.py
+linguagem escolhida foi python, e tentei adicionar comentários no edabit mas sem sucesso, os comentarios estão no arquivo index.py.
 
